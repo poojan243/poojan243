@@ -31,7 +31,7 @@ Hi, I'm Poojan Gagrani, a skilled **Software Developer** specializing in **Data 
 ```javascript
 const poojan = {
     pronouns: "he" | "him",
-    code: ["C#", "Python", "SQL", "Javascript", "HTML", "CSS", "AngularJS"],
+    code: ["C#", "Python", "SQL", "JavaScript", "HTML", "CSS", "AngularJS"],
     askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "machine learning", "spirituality"],
     technologies: {
         frontEnd: {
