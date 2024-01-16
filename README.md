@@ -1,4 +1,4 @@
-### Hey folks! 🙋🏻‍♂️
+### Hey folks! 👋
 
 <!--
 **poojan243/poojan243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
