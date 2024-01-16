@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Poojan Gagrani
-### An Artificial Intelligence and Data Enthusiast, Software Engineer, Web Developer and Business Analyst 🧑🏻‍💻❤️‍🔥
+### An AI and Data Enthusiast, Software Engineer, Web Developer and Business Analyst 🧑🏻‍💻❤️‍🔥
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch!
 
 ## About Me
