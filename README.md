@@ -39,7 +39,7 @@ const poojan = {
             js: ["Angular", "jQuery"]
         },
         backEnd: {
-            js: ["ASP .NET"]
+            framework: ["ASP .NET"]
         },
         databases: ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Oracle"],
         misc: ["Git", "Tableau", "Azure", "AWS", "Jupyter Notebook"]
