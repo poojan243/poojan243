@@ -42,7 +42,7 @@ const poojan = {
             framework: ["ASP .NET"]
         },
         databases: ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Tableau", "Azure", "AWS", "Jupyter Notebook"]
+        misc: ["Git", "Tableau", "Azure", "AWS", "Jupyter Notebook", "ETL"]
     }
 };
 ```
