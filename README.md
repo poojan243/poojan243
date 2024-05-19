@@ -34,8 +34,8 @@ const poojan = {
     code: ["Python", "SQL", "C#", "C++", "JavaScript", "AngularJS", "jQuery", "HTML", "CSS"],
     askMeAbout: ["software dev", "data analytics", "machine learning", "front end", "back end", "full stack", "spirituality"],
     technologies: {
-        AI/data science: {
-             tools/technologies: ["Python", "Tableau", "PowerBI", "Pandas", "NumPy", "Machine Learning", "Neural Networks", "LLM"],
+        AI: {
+             tools/technologies: ["Python", "Tableau", "PowerBI", "Machine Learning", "Neural Networks", "LLM"],
              cloud: ["Azure", "AWS", "GCP"]
         },
         frontEnd: {
@@ -46,7 +46,7 @@ const poojan = {
             framework: ["ASP .NET", "Flask"]
         },
         databases: ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Jupyter Notebook", "ETL"]
+        misc: ["Git", "Jupyter Notebook", "Pandas", "NumPy", "ETL"]
     }
 };
 ```
