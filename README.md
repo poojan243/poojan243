@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm open to intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch!
 
 ## About Me
-Hi, I'm Poojan Gagrani, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I'm pursuing my  **Master's degree in Data Analytics from San Jose State University**. I enjoy working on diverse projects and have experience in web development, relational and non-relational databases, cloud computing, software engineering, and business analytics. I intend to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Poojan Gagrani, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I'm pursuing my  **Master's degree in Data Analytics from San Jose State University**. I enjoy working on diverse projects and have experience in neural networks, machine learning, data analytics, web development, relational and non-relational databases, cloud computing, software engineering, and business analytics. I intend to leverage my skills and knowledge to create innovative and efficient solutions.
 
 ![](https://komarev.com/ghpvc/?username=poojan243&color=blueviolet)
 
