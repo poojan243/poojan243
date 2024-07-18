@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Poojan Gagrani
-### An AI and Data Enthusiast, Software Engineer, Web Developer and Business Analyst 🧑🏻‍💻❤️‍🔥
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch!
+### An AI and Data Enthusiast, previously served as a Software Engineer, Web Developer, and Business Analyst 🧑🏻‍💻❤️‍🔥
+Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm open to intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch!
 
 ## About Me
 Hi, I'm Poojan Gagrani, a skilled **Data Analyst and a Software Developer** specializing in **Data Science and Artificial Intelligence**. I'm pursuing my  **Master's degree in Data Analytics from San Jose State University**. I enjoy working on diverse projects and have experience in web development, relational and non-relational database, cloud computing, software engineering, and business analytics. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
@@ -31,18 +31,22 @@ Hi, I'm Poojan Gagrani, a skilled **Data Analyst and a Software Developer** spec
 ```javascript
 const poojan = {
     pronouns: "he" | "him",
-    code: ["C#", "Python", "SQL", "JavaScript", "HTML", "CSS", "AngularJS"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "machine learning", "spirituality"],
+    code: ["Python", "SQL", "C#", "C++", "JavaScript", "AngularJS", "jQuery", "HTML", "CSS"],
+    askMeAbout: ["software dev", "data analytics", "machine learning", "front end", "back end", "full stack", "spirituality"],
     technologies: {
+        AI: {
+             tools/technologies: ["Python", "Tableau", "PowerBI", "Machine Learning", "Neural Networks", "LLM"],
+             cloud: ["Azure", "AWS", "GCP"]
+        },
         frontEnd: {
             css: ["Bootstrap"],
             js: ["Angular", "jQuery"]
         },
         backEnd: {
-            framework: ["ASP .NET"]
+            framework: ["ASP .NET", "Flask"]
         },
         databases: ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Tableau", "Azure", "AWS", "Jupyter Notebook", "ETL"]
+        misc: ["Git", "Jupyter Notebook", "Pandas", "NumPy", "ETL"]
     }
 };
 ```
