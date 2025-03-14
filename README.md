@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 # Poojan Gagrani
-### An AI and Data Enthusiast, previously served as a  Business Data Analyst and Software Engineer 🧑🏻‍💻
+### Data Scientist and AI Enthusiast. Former Data Analyst and Software Engineer 🧑🏻‍💻
 <!-- Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm open to intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch! -->
 
 ## About Me
-Hi, I'm Poojan Gagrani, a skilled **Data Analyst and a Software Developer** specializing in **Data Science and Artificial Intelligence**. I'm pursuing my  **Master's degree in Data Analytics from San Jose State University**. I enjoy working on diverse projects and have experience in software development, relational and non-relational database, cloud computing, software engineering, and business analytics. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Poojan Gagrani, a skilled **Data Scientist, Analyst, and Software Developer** specializing in **Data Science and Artificial Intelligence**. I'm currently working as a **Data Scientist at Jacobs** and hold a **Master's degree in Data Analytics from San Jose State University**. I enjoy working on diverse projects and have experience in **LLMs, data pipelines, software development, relational and non-relational databases, cloud computing, software engineering, and business analytics**. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+
 
 ![](https://komarev.com/ghpvc/?username=poojan243&color=blueviolet)
 
@@ -28,7 +29,9 @@ Hi, I'm Poojan Gagrani, a skilled **Data Analyst and a Software Developer** spec
 
 ## Work Experience 👨‍💼
 
-📌 Project Manager - [**Center for the Development of Recycling**](https://www.recyclestuff.org)
+📌 Data Scientist - [**Jacobs Solutions Inc.**](https://www.jacobs.com)
+
+📌 Admin Manager - [**Center for the Development of Recycling**](https://www.recyclestuff.org)
 
 📌 Data Analyst - [**Tata Consultancy Services**](https://www.tcs.com)
 
