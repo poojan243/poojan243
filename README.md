@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Poojan Gagrani
+# I'm Poojan Gagrani
 ### Data Scientist and AI Enthusiast. Former Data Analyst and Software Engineer 🧑🏻‍💻
 <!-- Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm open to intern and full-time opportunities in Machine Learning, Data Science, and Software Engineering roles. Feel free to explore and get in touch! -->
 
