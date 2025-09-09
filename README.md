@@ -31,6 +31,8 @@ Hi, I'm a skilled **Data Scientist, Analyst, and Software Developer** specializi
 
 📌 Data Scientist - [**Jacobs Solutions Inc.**](https://www.jacobs.com)
 
+📌Operations Analyst Intern - [**San José State University**](https://www.sjsu.edu)
+
 📌 Admin Manager - [**Center for the Development of Recycling**](https://www.recyclestuff.org)
 
 📌 Data Analyst - [**Tata Consultancy Services**](https://www.tcs.com)
