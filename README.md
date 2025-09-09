@@ -29,7 +29,7 @@ Hi, I'm a skilled **Data Scientist, Analyst, and Software Developer** specializi
 
 ## Work Experience 👨‍💼
 
-📌 Data Scientist - [**Jacobs Solutions Inc.**](https://www.jacobs.com)
+📌 Data Scientist/Engineer - [**Jacobs Engineering Solutions, Inc.**](https://www.jacobs.com)
 
 📌Operations Analyst Intern - [**San José State University**](https://www.sjsu.edu)
 
